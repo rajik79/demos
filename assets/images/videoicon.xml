@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="50dp"
+    android:layout_width="50dp">
+
+    <item android:drawable="@mipmap/recordvid"
+        android:layout_height="50dp"
+        android:layout_width="50dp"
+        android:state_checked="false" />
+
+    <item android:drawable="@mipmap/stoprecvid"
+        android:layout_height="50dp"
+        android:layout_width="50dp"
+        android:state_checked="true"/>
+</selector>

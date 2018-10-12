@@ -1,0 +1,27 @@
+{
+  "json": {
+    "response": {
+      "servicetype": "9",
+      "functiontype": "9014",
+      "statuscode": "0",
+      "statusmessage": "Success",
+      "data": {
+        "callid": 4986,
+        "name": "teju",
+        "candidatePhotoId": 12709,
+        "skillName": "ABAP",
+        "level": "Intermediate",
+        "sponsored": false,
+        "minimumTime": 3,
+        "maximumTime": 6,
+        "beepTimings": [
+          30,
+          10
+        ]
+      },
+      "session": {
+        "sessionid": "91HDZYEAAAAA"
+      }
+    }
+  }
+}
